@@ -2,6 +2,10 @@
 
 Muncho is a food delivery and restaurant discovery platform with a React frontend and an Express backend.
 
+## Preview
+
+![Muncho Preview](./image.png)
+
 ## Project Structure
 
 - `frontend/` - React + Vite + Tailwind CSS app
